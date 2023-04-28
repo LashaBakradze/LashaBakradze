@@ -1,16 +1,21 @@
-### Hi there 👋
+### Привет,меня зовут Лаша 👋
 
-<!--
-**LashaBakradze/LashaBakradze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я являюсь студентом онлайн школы "Нетология" ![image](https://user-images.githubusercontent.com/125482424/235211220-b5f104a0-b414-410b-9d26-17338f155336.png)
 
-Here are some ideas to get you started:
+Я **Лаша Бакрадзе** , Тестировщик ПО
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Вот что я умею**
+
+
+* Git — система контроля версий
+* Ручное тестирование веб-приложений
+
+
+**Сертификаты из Нетологии**
+
+![image](https://user-images.githubusercontent.com/125482424/235216132-30f1ec0a-201d-4e8c-98d1-a7193be3752f.png)
+![image](https://user-images.githubusercontent.com/125482424/235216174-0ccb43de-7af0-4379-aa71-9db5063db12a.png)
+![image](https://user-images.githubusercontent.com/125482424/235216229-cf5b70c7-0b1e-4000-bcef-d4bd110a56a6.png)
+![image](https://user-images.githubusercontent.com/125482424/235216274-f636e544-c020-4737-929b-8c0b90d733f7.png)
+![image](https://user-images.githubusercontent.com/125482424/235216325-d51d8949-390e-46c7-a12b-31999fd92749.png)
+
